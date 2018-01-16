@@ -1,0 +1,9 @@
+{
+ "name" : "Akunamatata"
+ "version" : "0.1"
+ "description" : ""
+ "main" : "index.js"
+ "scripts" : {
+   "test" : "test"
+ }
+ }
