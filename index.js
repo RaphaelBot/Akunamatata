@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const token = "NDAyNjk3ODA2MTk3OTQ4NDE2.DT8hLA.-Nu1QtGmYPIwTwoYZc8NFcbfwf8";
+const token = "NDODA
 const music = require('discord.js-music-v11')
 const voiceChannel = ('message.member.voiceChannel');
 var prefix = ";";
